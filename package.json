@@ -20,7 +20,7 @@
     "babylon": "^6.8.4",
     "tello": "^1.1.0",
     "walkdir": ">= 0.0.2",
-    "yargs-parser": "^11.1.0"
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
